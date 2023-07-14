@@ -1,0 +1,34 @@
+***
+id - The ID number of the sample.
+diagnosis - The diagnosis of the sample, either M (malignant) or B (benign).
+radius_mean - The mean of the distances from the center to the points on the perimeter of the cell nucleus.
+texture_mean - The standard deviation of the gray-scale values of the cell nucleus.
+perimeter_mean - The mean perimeter of the cell nucleus.
+area_mean - The mean area of the cell nucleus.
+smoothness_mean - The mean of the local variation in radius lengths of the cell nucleus.
+compactness_mean - The mean of the perimeter^2 / area - 1.0 of the cell nucleus.
+concavity_mean - The mean of the severity of concave portions of the contour of the cell nucleus.
+concave points_mean - The mean of the number of concave portions of the contour of the cell nucleus.
+symmetry_mean - The mean of the symmetry of the cell nucleus.
+fractal_dimension_mean - The mean of the fractal dimension of the cell nucleus ("coastline approximation" - 1).
+radius_se - The standard error of the mean radius of the cell nucleus.
+texture_se - The standard error of the mean texture of the cell nucleus.
+perimeter_se - The standard error of the mean perimeter of the cell nucleus.
+area_se - The standard error of the mean area of the cell nucleus.
+smoothness_se - The standard error of the mean smoothness of the cell nucleus.
+compactness_se - The standard error of the mean compactness of the cell nucleus.
+concavity_se - The standard error of the mean concavity of the cell nucleus.
+concave points_se - The standard error of the mean number of concave points of the cell nucleus.
+symmetry_se - The standard error of the mean symmetry of the cell nucleus.
+fractal_dimension_se - The standard error of the mean fractal dimension of the cell nucleus.
+radius_worst - The largest of the three largest mean radii of the cell nucleus.
+texture_worst - The largest of the three largest mean textures of the cell nucleus.
+perimeter_worst - The largest of the three largest mean perimeters of the cell nucleus.
+area_worst - The largest of the three largest mean areas of the cell nucleus.
+smoothness_worst - The largest of the three largest mean smoothnesses of the cell nucleus.
+compactness_worst - The largest of the three largest mean compactnesses of the cell nucleus.
+concavity_worst - The largest of the three largest mean concavities of the cell nucleus.
+concave points_worst - The largest of the three largest mean numbers of concave points of the cell nucleus.
+symmetry_worst - The largest of the three largest mean symmetries of the cell nucleus.
+fractal_dimension_worst - The largest of the three largest mean fractal dimensions of the cell nucleus.
+***
